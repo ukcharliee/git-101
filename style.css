@@ -1,6 +1,14 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background-color: #D23333;
+}
+
+body h1 {
+	color: white;
+	font-family: Helvetica;
+	font-weight: lighter;
+
 }
 
 #logo {
